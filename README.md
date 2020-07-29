@@ -1,3 +1,5 @@
 # Waifu-DiscordNitroSniper
-Generates nitro through help of webhook !
+SNIPES NITRO THROUGHOUT ALL OF THE SERVER YOU HAVE JOINED !!
+
+JUST PUT YOUR TOKEN in Config.json
 https://i.imgur.com/MoNbjAu.png
