@@ -1,0 +1,23 @@
+7/29/2020 9:44:24 AM|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                           GET /?v=6&encoding=json HTTP/1.1
+                           User-Agent: websocket-sharp/1.0
+                           Host: gateway.discord.gg
+                           Upgrade: websocket
+                           Connection: Upgrade
+                           Sec-WebSocket-Key: w7TWCsw9KXsfiaHBbE1p0w==
+                           Sec-WebSocket-Version: 13
+7/29/2020 9:44:25 AM|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                           HTTP/1.1 101 Switching Protocols
+                           Date: Wed, 29 Jul 2020 03:59:26 GMT
+                           Connection: upgrade
+                           Set-Cookie: __cfduid=d75e0244100d09e91d3608cb0584687311595995166; expires=Fri, 28-Aug-20 03:59:26 GMT; path=/; domain=.discord.gg; HttpOnly; SameSite=Lax; Secure
+                           sec-websocket-accept: LtbIGaR67A70yHEG2ziB6cIg28c=
+                           upgrade: websocket
+                           CF-Cache-Status: DYNAMIC
+                           cf-request-id: 043a52ad630000a7792f1a0200000001
+                           Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                           Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+                           X-Content-Type-Options: nosniff
+                           Server: cloudflare
+                           CF-RAY: 5ba3ed5bda6ea779-KTM
+7/29/2020 9:44:47 AM|Trace|WebSocket.close:0|Begin closing the connection.
